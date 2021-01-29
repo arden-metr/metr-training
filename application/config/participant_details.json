@@ -105,7 +105,7 @@
 				"name":"devices",
 				"display_name":"Devices",
 				"type":"list",
-				"data_type":"string",
+				"list_data_type":"string",
 				"cardinality": 5,
 				"is_required":false
 			}
